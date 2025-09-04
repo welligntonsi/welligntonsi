@@ -30,7 +30,7 @@
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-WelligntonSilva-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wellignton-silva-30a72458/)  
--- [![GitHub](https://img.shields.io/badge/GitHub-WelligntonSilva-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario)  
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-WelligntonSilva-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario)  -->
 
 ---
 
