@@ -29,8 +29,11 @@
 ---
 
 ## 📫 Como me encontrar
+## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-WelligntonSilva-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wellignton-silva-30a72458/)  
+[![Lattes](https://img.shields.io/badge/Lattes-CV-green?style=for-the-badge&logo=readthedocs)](http://lattes.cnpq.br/6647227300808779)  
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-WelligntonSilva-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario)  -->
+
 
 ---
 
