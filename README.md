@@ -29,7 +29,6 @@
 ---
 
 ## 📫 Como me encontrar
-## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-WelligntonSilva-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wellignton-silva-30a72458/)  
 [![Lattes](https://img.shields.io/badge/Lattes-CV-green?style=for-the-badge&logo=readthedocs)](http://lattes.cnpq.br/6647227300808779)  
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-WelligntonSilva-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario)  -->
@@ -37,6 +36,10 @@
 
 ---
 
-## ⚡ Estatísticas GitHub
-![Wellignton's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+## ⚡ Estatísticas do GitHub  
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=welligntonsi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welligntonsi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
