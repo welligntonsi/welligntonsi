@@ -13,11 +13,29 @@
 
 ---
 
-## 📚 Atualmente aprendendo
-- **Django + Python** (back-end e automação)  
-- **Arquitetura de software e documentação técnica**  
-- **Boas práticas em Data Warehouse**  
-- **Inglês técnico para TI**  
+## 📚 Atualmente aprendendo  
+
+- Django + Python (back-end e automação)  
+- Arquitetura de software e documentação técnica  
+- Ciência de dados, aprendizado de máquina e inteligência artificial  
+- Power BI e análise de dados  
+- Scrum e metodologias ágeis  
+- Gerenciamento de serviços de TI (ITSM)  
+- Liderança de projetos  
+- Desenvolvimento pessoal e profissional (8/19 cursos finalizados – Plano de Estudo em andamento)  
+- Surf como filosofia de vida 🌊🏄  
+
+---
+
+## 🚀 Principais focos  
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/)  
+[![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)](https://www.ibm.com/topics/data-science)  
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)](https://www.tensorflow.org/)  
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)  
+[![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/)  
+
 
 ---
 
